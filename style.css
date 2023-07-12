@@ -21,9 +21,8 @@ img{
 .wrapper{
   max-width: 600px;
   margin: 0 auto;
-  background: rgb(131,58,180);
-background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-  padding: 10px;
+  background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);  padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px 0px rgba(0,0,0,0.2);
 }
